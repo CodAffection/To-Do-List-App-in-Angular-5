@@ -9,11 +9,10 @@ An Angular 5 Sample Project For To Do List Application Using Firebase Project.
  # Step By Step Explanation
  
  Video Tutorial : https://youtu.be/jNCzuSryJHE
- <!--
+
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=jNCzuSryJHE
 " target="_blank"><img src="http://img.youtube.com/vi/jNCzuSryJHE/0.jpg" 
 alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a>
--->
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
